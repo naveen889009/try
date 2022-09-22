@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/naveen889009/try.git/static/css/main.d88ea0b1.chunk.css",
+    "main.js": "/naveen889009/try.git/static/js/main.dfff98ca.chunk.js",
+    "main.js.map": "/naveen889009/try.git/static/js/main.dfff98ca.chunk.js.map",
+    "runtime-main.js": "/naveen889009/try.git/static/js/runtime-main.bd189a5c.js",
+    "runtime-main.js.map": "/naveen889009/try.git/static/js/runtime-main.bd189a5c.js.map",
+    "static/js/2.6d111095.chunk.js": "/naveen889009/try.git/static/js/2.6d111095.chunk.js",
+    "static/js/2.6d111095.chunk.js.map": "/naveen889009/try.git/static/js/2.6d111095.chunk.js.map",
+    "static/js/3.373dac03.chunk.js": "/naveen889009/try.git/static/js/3.373dac03.chunk.js",
+    "static/js/3.373dac03.chunk.js.map": "/naveen889009/try.git/static/js/3.373dac03.chunk.js.map",
+    "index.html": "/naveen889009/try.git/index.html",
+    "static/css/main.d88ea0b1.chunk.css.map": "/naveen889009/try.git/static/css/main.d88ea0b1.chunk.css.map",
+    "static/js/2.6d111095.chunk.js.LICENSE.txt": "/naveen889009/try.git/static/js/2.6d111095.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/naveen889009/try.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd189a5c.js",
+    "static/js/2.6d111095.chunk.js",
+    "static/css/main.d88ea0b1.chunk.css",
+    "static/js/main.dfff98ca.chunk.js"
+  ]
+}
